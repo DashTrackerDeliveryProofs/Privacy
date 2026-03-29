@@ -32,7 +32,7 @@ DashTracker: Delivery Proofs Privacy Policy
 
 <p>Your data never leaves your phone unless <strong>you</strong> choose to export or back it up.</p>
 
-<p>If you have any questions, feel free to email me at <strong>your-email@gmail.com</strong>.</p>
+<p>If you have any questions, feel free to email me at <strong>through the play store</strong>.</p>
 
 <p>Thank you for using DashTracker!</p>
 
